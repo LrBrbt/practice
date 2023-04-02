@@ -1,3 +1,33 @@
 
-h2{color: red}
+h2{background-color: darkcyan;
+font-style: oblique; 
+font-family: monospace;
+color: whitesmoke;
+font-size: xx-large;}
+
+p.text{
+    font-family: monospace;
+    font-size: x-large;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: justify;
+}
+
+h1{
+    background-color: darkcyan;
+font-style: oblique; 
+font-family: monospace;
+color: whitesmoke;
+font-size: xx-large;}
+
+body{
+    background-color: #B9E8D8
+}
+
+footer{
+    text-align: justify;
+    background-color: darkcyan;
+    font-family: monospace;
+    font-size: large;
+}
 
